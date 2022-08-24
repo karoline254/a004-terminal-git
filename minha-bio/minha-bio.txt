@@ -1,16 +1,2 @@
- Olá, 
-
- Meu nome é Karoline e tenho 27 anos,
- sou de João Pessoa - PB.
- Apaixonada por tecnologia e futebol.
- Sou formada em Gestão da Tecnologia da informação. 
- Sou casada, nosso sonho é morar fora. 
- Voltei a estudar programação por ter muitas oportunidades tanto aqui,
- quanto fora do país. 
-
- Acho que é isso. 
-
- Mais uma alteração
- 
- 
- 
+Olá, meu nome é karoline, tenho 27 anos. 
+Sou de João Pessoa - PB. 
